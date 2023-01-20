@@ -8,12 +8,12 @@ const CONFIG = {
     email: 'parsec93@naver.com',
     linkedin: 'parsec93',
     github: 'parsec93',
-    instagram: '',
+    instagram: 'https://www.instagram.com/geuno_geunho/',
   },
   projects: [
     {
       name: 'tohyeon_log',
-      href: 'https://tohyeon.web.app'
+      href: 'https://tohyeon-log-main.vercel.app'
     }
   ],
   // blog setting (required)
