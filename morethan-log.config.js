@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: 'geunho_kwon',
-    image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: 'geunho',
+    image: '/logo-color.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: 'web developer',
-    bio: 'I develop everything using node.',
+    bio: 'I develop with Java, Javascript and etc.',
     email: 'parsec93@naver.com',
     linkedin: 'parsec93',
     github: 'parsec93',
