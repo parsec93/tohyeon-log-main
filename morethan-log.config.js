@@ -6,9 +6,9 @@ const CONFIG = {
     role: 'web developer',
     bio: 'I develop with Java, Javascript and etc.',
     email: 'parsec93@naver.com',
-    linkedin: 'parsec93',
+    linkedin: 'geunho-kwon-b93a14120/',
     github: 'parsec93',
-    instagram: 'https://www.instagram.com/geuno_geunho/',
+    instagram: 'geuno_geunho',
   },
   projects: [
     {
